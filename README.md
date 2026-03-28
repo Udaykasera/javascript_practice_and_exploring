@@ -43,10 +43,6 @@ ds-by-js/
 
 I maintain consistency by solving problems daily.
 
-| Day   | Topic  | Problem |
-| ----- | ------ | ------- |
-| Day 1 | Arrays | Two Sum |
-
 ## 🧠 Approach
 
 * Brute Force → Better → Optimal
