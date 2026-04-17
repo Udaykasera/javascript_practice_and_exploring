@@ -1,76 +1,54 @@
-# dsa-with-javascript
-
-A structured and consistent DSA preparation and practice repository in JavaScript with daily problem solving, detailed notes, optimized solutions, and progress tracking for interview readiness.
-
-# 🚀 DSA Preparation in JavaScript
+# 🚀 JavaScript Practice & Exploration
 
 ## 📌 About This Repository
 
-This repository contains my structured journey of learning **Data Structures and Algorithms using JavaScript**.
-I am solving problems daily from platforms like LeetCode and maintaining clean, optimized solutions.
+This repository is dedicated to improving my **JavaScript skills** through daily practice, concept exploration, and hands-on coding.
+
+Instead of focusing only on DSA, I use this repository to:
+
+- Practice core JavaScript concepts
+- Explore new features and logic building
+- Write small programs and exercises
+- Strengthen problem-solving skills
 
 ## 🎯 Goals
 
-- Solve 300+ DSA problems
-- Build strong problem-solving skills
-- Prepare for Software Testing & SDET roles
+- Master JavaScript fundamentals
+- Build strong logic and problem-solving ability
+- Explore real-world coding scenarios
 - Maintain daily consistency
 
 ## 📂 Folder Structure
-
-```
-ds-by-js/
+js-practice/
 │
-├── 01-Basic-Programs/
-├── 02-Arrays/
-├── 03-Strings/
-├── 04-Recursion/
-├── 05-Searching/
-├── 06-Sorting/
-├── 07-LinkedList/
-├── 08-Stack/
-├── 09-Queue/
-├── 10-Trees/
-├── 11-Graphs/
-├── 12-Dynamic-Programming/
+├── basics/
+├── arrays/
+├── strings/
+├── functions/
+├── objects/
+├── async-js/
+├── mini-programs/
 │
 ├── notes/
 ├── daily-log.md
-│
-├── package.json
-├── .gitignore
-```
+
 
 ## 📅 Daily Progress
 
-I maintain consistency by solving problems daily.
+I regularly update this repository with practice problems, notes, and experiments.
 
 ## 🧠 Approach
 
-- Brute Force → Better → Optimal
-- Code + Explanation
-- Time & Space Complexity
+- Learn → Practice → Experiment
+- Write clean and readable code
+- Focus on concepts, not just solutions
 
-## 🔥 Platforms Used
+## 🔥 What This Repo Shows
 
-- LeetCode
-- GeeksforGeeks
-
-## 📈 Progress Tracking
-
-- Total Problems Solved: 1
-- Current Streak: 1 Day
-
----
-
-## 💼 Why This Repository?
-
-This repository showcases:
-
-- Problem-solving ability
-- Consistency
-- Clean coding practices
-- Real interview preparation
+- Consistency in learning
+- Strong JavaScript fundamentals
+- Practical coding skills
+- Growth mindset
 
 ---
 
